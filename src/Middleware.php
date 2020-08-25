@@ -1,5 +1,5 @@
 <?php
-namespace GuzzleHttpPrestaShop;
+namespace GuzzleHttpPrestashop;
 
 use GuzzleHttpPrestashop\Cookie\CookieJarInterface;
 use GuzzleHttpPrestashop\Exception\RequestException;

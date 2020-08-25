@@ -1,5 +1,5 @@
 <?php
-namespace GuzzleHttpPrestaShop;
+namespace GuzzleHttpPrestashop;
 
 use GuzzleHttp\Promise\EachPromise;
 use GuzzleHttp\Promise\PromiseInterface;

@@ -1,5 +1,5 @@
 <?php
-namespace GuzzleHttpPrestaShop\Cookie;
+namespace GuzzleHttpPrestashop\Cookie;
 
 /**
  * Persists non-session cookies using a JSON formatted file

@@ -1,5 +1,5 @@
 <?php
-namespace GuzzleHttpPrestaShop;
+namespace GuzzleHttpPrestashop;
 
 /**
  * Expands URI templates. Userland implementation of PECL uri_template.

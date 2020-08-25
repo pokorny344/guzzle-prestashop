@@ -1,5 +1,5 @@
 <?php
-namespace GuzzleHttpPrestaShop\Handler;
+namespace GuzzleHttpPrestashop\Handler;
 
 use GuzzleHttp\Promise as P;
 use GuzzleHttp\Promise\Promise;

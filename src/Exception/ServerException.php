@@ -1,5 +1,5 @@
 <?php
-namespace GuzzleHttpPrestaShop\Exception;
+namespace GuzzleHttpPrestashop\Exception;
 
 /**
  * Exception when a server error is encountered (5xx codes)

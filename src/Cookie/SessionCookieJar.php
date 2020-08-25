@@ -1,5 +1,5 @@
 <?php
-namespace GuzzleHttpPrestaShop\Cookie;
+namespace GuzzleHttpPrestashop\Cookie;
 
 /**
  * Persists cookies in the client session

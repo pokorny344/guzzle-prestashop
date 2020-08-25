@@ -1,5 +1,5 @@
 <?php
-namespace GuzzleHttpPrestaShop;
+namespace GuzzleHttpPrestashop;
 
 use GuzzleHttpPrestashop\Exception\BadResponseException;
 use GuzzleHttpPrestashop\Exception\TooManyRedirectsException;

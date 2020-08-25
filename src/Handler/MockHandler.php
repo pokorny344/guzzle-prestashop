@@ -1,5 +1,5 @@
 <?php
-namespace GuzzleHttpPrestaShop\Handler;
+namespace GuzzleHttpPrestashop\Handler;
 
 use GuzzleHttpPrestashop\Exception\RequestException;
 use GuzzleHttpPrestashop\HandlerStack;

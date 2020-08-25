@@ -1,5 +1,5 @@
 <?php
-namespace GuzzleHttpPrestaShop\Cookie;
+namespace GuzzleHttpPrestashop\Cookie;
 
 use Psr\Http\Message\RequestInterface;
 use Psr\Http\Message\ResponseInterface;

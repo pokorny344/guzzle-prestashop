@@ -1,5 +1,5 @@
 <?php
-namespace GuzzleHttpPrestaShop;
+namespace GuzzleHttpPrestashop;
 
 use GuzzleHttpPrestashop\Exception\InvalidArgumentException;
 use Psr\Http\Message\UriInterface;

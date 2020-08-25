@@ -1,5 +1,5 @@
 <?php
-namespace GuzzleHttpPrestaShop;
+namespace GuzzleHttpPrestashop;
 
 use GuzzleHttpPrestashop\Handler\CurlHandler;
 use GuzzleHttpPrestashop\Handler\CurlMultiHandler;

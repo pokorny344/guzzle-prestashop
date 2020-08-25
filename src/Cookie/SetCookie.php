@@ -1,5 +1,5 @@
 <?php
-namespace GuzzleHttpPrestaShop\Cookie;
+namespace GuzzleHttpPrestashop\Cookie;
 
 /**
  * Set-Cookie object

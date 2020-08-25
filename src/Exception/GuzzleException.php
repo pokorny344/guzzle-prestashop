@@ -1,5 +1,5 @@
 <?php
-namespace GuzzleHttpPrestaShop\Exception;
+namespace GuzzleHttpPrestashop\Exception;
 
 use Throwable;
 

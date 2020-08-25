@@ -1,5 +1,5 @@
 <?php
-namespace GuzzleHttpPrestaShop;
+namespace GuzzleHttpPrestashop;
 
 use GuzzleHttpPrestashop\Exception\GuzzleException;
 use GuzzleHttp\Promise\PromiseInterface;
